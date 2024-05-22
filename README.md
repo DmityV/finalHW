@@ -15,6 +15,12 @@ git clone https://github.com/DmityV/finalHW.git
 
 #### Далее в командной строке:
 
+Перейти в директорию проекта
+
+```
+cd finalHW
+```
+
 Cоздать и активировать виртуальное окружение:
 
 Windows
