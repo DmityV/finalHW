@@ -31,7 +31,7 @@ source env/Scripts/activate
 Linux/macOS
 ```
 python3 -m venv env
-source venv/bin/activate
+source env/bin/activate
 ```
 
 Обновить PIP:
